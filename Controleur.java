@@ -1,4 +1,4 @@
-public Controler
+public Controleur
 {
 	
 }
